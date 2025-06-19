@@ -78,4 +78,5 @@ jobs:
         with:
           app-name: 'my-calc-api'
           slot-name: 'Production'
+          package: .
           
